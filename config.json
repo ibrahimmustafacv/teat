@@ -1,0 +1,81 @@
+{
+  "password": "4852",
+  "sender": "Ibrahim",
+  "receiver": "Layla",
+  "welcomeMessage": "I made this for you, with every piece of my heart.",
+  "tagline": "A journey through our most beautiful memories, in the heart of Mansoura…",
+  "music": {
+    "title": "One Of The Girls",
+    "artist": "",
+    "albumArt": "",
+    "src": "Project-audio/song.mp3"
+  },
+  "youtubeVideo": {
+    "title": "Our Song",
+    "videoId": "Zi_XLOBDo_Y",
+    "description": "The song that always reminds me of you.",
+    "localSrc": "Project-videos/video.mp4"
+  },
+  "letter": {
+    "subject": "My Dearest Layla,",
+    "body": "From the very first moment I saw you, something inside me knew — you were different. You were the one.\n\nEvery day with you is a reminder of how lucky I am. Your smile is my safe place. Your voice is the melody I never want to stop hearing. And your heart — your heart is the most beautiful thing I have ever known.\n\nYou make me want to be better, to dream bigger, to love deeper. With you, even the simplest moments become the ones I hold onto forever.\n\nThank you for choosing me. Thank you for being you. Thank you for being mine.\n\nWith all my love,\nIbrahim 💜",
+    "signature": "Forever yours ✨"
+  },
+  "voiceNotes": [
+    {"id": 1, "label": "A message from my heart 🎙️", "src": "Project-audio/voice1.mp3", "duration": "0:32"},
+    {"id": 2, "label": "Something I've always wanted to say 💬", "src": "Project-audio/voice2.mp3", "duration": "0:48"}
+  ],
+  "timeline": [
+    {"date": "April 2026", "title": "The Day It All Began", "description": "April 9th, 2026 — the day my life changed forever. I remember every detail of the moment I first met you in Mansoura.", "emoji": "🌸", "image": "Project-photos/image1.jpg"},
+    {"date": "April 2026", "title": "Our First Coffee at Coffee Bear", "description": "We sat across from each other and the hours disappeared. That little café in Mansoura became one of my favorite places on earth.", "emoji": "☕", "image": "Project-photos/image2.jpg"},
+    {"date": "May 2025", "title": "Graduation Day", "description": "May 5th — a day of pride and joy. Watching you graduate was one of the most beautiful moments I've ever witnessed.", "emoji": "🎓", "image": "Project-photos/image3.jpg"},
+    {"date": "2026", "title": "Walks in Mansoura", "description": "Wandering through the streets of our city together — every corner holds a memory of us.", "emoji": "🏙", "image": "Project-photos/image4.jpg"},
+    {"date": "Today", "title": "Right Now", "description": "And here we are — and I wouldn't trade a single moment for anything in the world.", "emoji": "💜", "image": "Project-photos/image5.jpg"}
+  ],
+  "gallery": [
+    {"src": "Project-photos/image1.jpg", "caption": "Our first adventure"},
+    {"src": "Project-photos/image2.jpg", "caption": "Laughing together"},
+    {"src": "Project-photos/image3.jpg", "caption": "Graduation day 🎓"},
+    {"src": "Project-photos/image4.jpg", "caption": "Mansoura moments"},
+    {"src": "Project-photos/image5.jpg", "caption": "Pure happiness"},
+    {"src": "Project-photos/image6.jpg", "caption": "My favorite memory"}
+  ],
+  "mapLocations": [
+    {"name": "Mansoura — Where It All Started", "emoji": "🌸", "lat": 31.0444, "lng": 31.3814, "description": "The city that gave me the greatest gift — you."},
+    {"name": "Coffee Bear", "emoji": "☕", "lat": 31.0528524, "lng": 31.4028348, "description": "Our favorite coffee shop — where hours feel like minutes with you."},
+    {"name": "Our Special Spot in Mansoura", "emoji": "💜", "lat": 31.0510, "lng": 31.3900, "description": "Our little corner of the world, in the heart of our city."}
+  ],
+  "loveReasons": [
+    "The way your eyes shine when you're truly happy — it's the most beautiful sight I know",
+    "Your kindness — the effortless, genuine way you care for everyone around you",
+    "How safe and understood I feel whenever I'm with you",
+    "The strength you carry inside you, even on the days you don't see it yourself"
+  ],
+  "favoriteMemories": [
+    {"emoji": "☕", "title": "Coffee Bear Afternoons", "description": "Hours of talking, laughing, and forgetting the rest of the world existed."},
+    {"emoji": "🎓", "title": "Your Graduation", "description": "Watching you achieve something so beautiful — I was so proud of you."},
+    {"emoji": "🏙", "title": "Evening Walks in Mansoura", "description": "The city feels different — warmer, more alive — when you're walking beside me."},
+    {"emoji": "🌙", "title": "Late Night Conversations", "description": "When the world goes quiet and it's just your voice and mine — those are my favorite moments."},
+    {"emoji": "💜", "title": "The Day We Met", "description": "April 9th, 2026 — the day everything changed for the better."}
+  ],
+  "futureGoals": [
+    {"emoji": "✈️", "title": "Travel Together", "description": "Every destination is a dream come true when you're beside me."},
+    {"emoji": "🏡", "title": "Build Our Home", "description": "A place filled with warmth, love, and the life we'll build together."},
+    {"emoji": "🌱", "title": "Grow Together", "description": "Through every season, every challenge — always side by side."},
+    {"emoji": "😊", "title": "A Happy, Peaceful Life", "description": "No drama, no fear — just a safe, joyful life, the two of us together."},
+    {"emoji": "🤝", "title": "Support Each Other's Dreams", "description": "Your success is my happiness. I'll always be in your corner."},
+    {"emoji": "💍", "title": "Forever", "description": "Every future I imagine — every single one — has you in it."}
+  ],
+  "countdown": {
+    "label": "Days Together",
+    "startDate": "2026-04-09",
+    "specialDate": "2025-05-05",
+    "specialDateLabel": "Graduation Day 🎓"
+  },
+  "ending": {
+    "quote": "\"I have found the one whom my soul loves.\"",
+    "author": "— Song of Solomon 3:4",
+    "finalMessage": "You are my peace, my joy, and my greatest adventure. I love you more than any words could ever say — and I always will.",
+    "signature": "Yours always, Ibrahim 💜"
+  }
+}
